@@ -1,0 +1,15 @@
+{
+	"name": "azur-adf-aw-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5c5a9357-f961-46ac-89da-a4ce017f7e71",
+		"tenantId": "7af2887d-c03b-477c-813b-ce1705513b13"
+	}
+}
